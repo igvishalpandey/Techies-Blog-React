@@ -1,6 +1,6 @@
 ## Techies-Blog
 
-Techies-Blog is an in-progress blog application built with React, Appwrite, react-router, and reacthook-form. It aims to provide a seamless user experience for sharing tech-related content, featuring functionalities such as user authentication, post creation, and commenting.
+Techies-Blog is an blog application built with React, Appwrite, react-router, and reacthook-form. It aims to provide a seamless user experience for sharing tech-related content, featuring functionalities such as user authentication, post creation, and commenting.
 
 ### Features
 - **User Authentication**: Users can sign up, log in, and log out securely.
