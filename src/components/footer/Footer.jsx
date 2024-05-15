@@ -1,6 +1,6 @@
-import { Link } from 'react-router-dom';
-import Logo from '../Logo';
-
+import React from 'react'
+import { Link } from 'react-router-dom'
+import Logo from '../Logo'
 
 function Footer() {
   return (
@@ -14,7 +14,7 @@ function Footer() {
                             </div>
                             <div>
                                 <p className="text-sm text-gray-600">
-                                    &copy; Copyright 2024. All Rights Reserved by Vishal Pandey.
+                                    &copy; Copyright 2023. All Rights Reserved by DevUI.
                                 </p>
                             </div>
                         </div>
